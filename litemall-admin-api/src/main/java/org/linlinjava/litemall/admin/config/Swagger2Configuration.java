@@ -36,8 +36,8 @@ public class Swagger2Configuration {
         return new ApiInfoBuilder()
                 .title("litemall-admin api")
                 .description("开源商城后台管理平台")
-                .termsOfServiceUrl("https://github.com/linlinjava/litemall")
-                .contact("https://github.com/linlinjava/litemall")
+                .termsOfServiceUrl("https://github.com/dolphintwo/litemall")
+                .contact("https://github.com/dolphintwo/litemall")
                 .version("1.0")
                 .build();
     }
